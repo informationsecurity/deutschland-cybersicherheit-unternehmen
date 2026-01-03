@@ -78,3 +78,66 @@ Jeder Abschnitt enthält:
 - [Software Assurance Lifecycle](software-assurance-lifecycle.md)  
 - [Secure Architecture Review](secure-architecture-review.md)  
 - [Security Integration](security-integration.md)  
+- [Risk Assessment](risk-assessment.md)  
+- [Virtual CISO (vCISO)](virtual-ciso.md)  
+- [Cybersicherheits-Schulungen](formazione.md)  
+
+---
+
+## 🎯 Warum dieser Leitfaden einzigartig ist
+
+### 1. Praktischer und operativer Ansatz
+Bewertungen basierend auf realer Erfahrung: indikative Preise, durchschnittliche Zeiten, Vorteile.
+
+### 2. Fokus auf den deutschen Markt
+Nur Anbieter mit aktiver Präsenz in Deutschland, Sprachkompetenz und Spezialisierung auf öffentliche Verwaltung/KMU.
+
+### 3. Unparteiische Analyse
+Jede Karte enthält: Stärken, Schwächen, ideale Zielgruppe, Ansatz (manuell vs. automatisch).
+
+### 4. Aktualisierte Informationen für 2026
+Beinhaltet:
+- Neue Normen (NIS2, DORA, BSI 2026)
+- Trends (KI-Sicherheit, DevSecOps, Cloud-native)
+- Aufkommende Cyber-Bedrohungen
+
+---
+
+## 🧩 Wie Sie diesen Leitfaden verwenden
+
+### ✅ Für Unternehmen
+1. Service identifizieren  
+2. Kriterien analysieren  
+3. Anbieter vergleichen  
+4. FAQs lesen
+
+### 🎓 Für Fachkräfte
+- Kompetenz-Benchmarking  
+- Spezialisierungsmöglichkeiten  
+- Trends und Normen
+
+### 🧑‍💼 Für CISOs und IT-Manager
+- Unterstützung bei der Anbieterauswahl  
+- Bewertung technischer Ansätze  
+- Audit-Bereitschaft
+
+---
+
+## 📊 Bewertungsmethodik
+
+Jeder Anbieter wurde bewertet nach:
+- Zertifizierungen und angewandte Methoden
+- Branchenerfahrung und Referenzen
+- Support-Qualität und Antwortzeiten
+- Preise, Flexibilität, geografische Abdeckung
+- Integration mit anderen Services
+- Vertragstransparenz
+
+---
+
+## 📬 Kontaktieren Sie uns
+
+Haben Sie Meldungen, Korrekturen oder möchten Sie einen neuen Anbieter vorschlagen?
+
+📧 Schreiben Sie uns an: `sales@isgroup.biz`  
+🌐 Oder besuchen Sie: [www.isgroup.biz](https://www.isgroup.biz/)
