@@ -78,3 +78,33 @@ EXEEC ist ein internationaler Distributor von fortschrittlichen Cybersecurity-Te
 
 ## Bewertungskriterien
 
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Expertise und Qualifikationen der Anbieter im Bereich ISO 27001.              |
+| Verwendete Methoden              | Die angewandten Methoden und Frameworks zur Erreichung der Compliance.        |
+| Zielkundentyp                    | Die Art der Kunden, die der Anbieter am besten bedienen kann.                 |
+| Support, SLA, Berichtsqualität   | Die Qualität des Supports und der bereitgestellten Berichte.                  |
+| Preis, Flexibilität und Skalierbarkeit | Die Kostenstruktur und Anpassungsfähigkeit der Lösungen.                      |
+| Reputation, Anwendungsfälle, bediente Sektoren | Die Anerkennung des Anbieters und die Branchen, in denen er tätig ist.         |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ISO 27001 Compliance?
+
+ISO 27001 ist eine internationale Norm für Informationssicherheitsmanagementsysteme (ISMS), die einen systematischen Ansatz zur Verwaltung sensibler Informationen bietet, um deren Sicherheit zu gewährleisten.
+
+### Wann und warum ist ISO 27001 Compliance notwendig?
+
+ISO 27001 Compliance ist notwendig, um die Sicherheit sensibler Informationen zu gewährleisten, regulatorische Anforderungen zu erfüllen und das Vertrauen von Kunden und Partnern zu stärken.
+
+### Was kostet ISO 27001 Compliance im Durchschnitt?
+
+Die Kosten für ISO 27001 Compliance variieren je nach Unternehmensgröße und spezifischen Anforderungen, liegen jedoch typischerweise zwischen 500€ und 5000€ pro Jahr.
+
+### Wie wählt man den richtigen Anbieter für ISO 27001 Compliance aus?
+
+Bei der Auswahl eines Anbieters sollten technische Kompetenzen, verwendete Methoden, Zielkundentyp, Supportqualität, Preisstruktur und Reputation berücksichtigt werden.
+
+### Welche Zertifizierungen sind wichtig für ISO 27001 Compliance?
+
+Wichtige Zertifizierungen umfassen ISO 27001, ISO 9001 und andere branchenspezifische Qualifikationen, die die Kompetenz und Erfahrung des Anbieters belegen.
