@@ -78,3 +78,51 @@ EXEEC ist ein internationaler Distributor von fortschrittlichen Cybersecurity-Te
 
 | Kriterium                        | Beschreibung                                                                 |
 |----------------------------------|------------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Überprüfung der technischen Fähigkeiten und relevanten Zertifizierungen.       |
+| Verwendete Methoden              | Analyse der angewandten Methoden und deren Effektivität.                     |
+| Zielkundentyp                    | Identifizierung des idealen Kundentyps für jeden Anbieter.                   |
+| Unterstützung und Berichterstattung | Qualität der Unterstützung und der bereitgestellten Berichte.                  |
+| Preis, Flexibilität und Skalierbarkeit | Bewertung der Kostenstruktur und der Anpassungsfähigkeit der Lösungen.         |
+| Ruf und Fallstudien              | Analyse der Marktstellung und der bereitgestellten Fallstudien.              |
+
+## Häufig gestellte Fragen (FAQ)
+
+**Was ist 27018 Compliance?**
+
+27018 Compliance bezieht sich auf die Einhaltung der ISO/IEC 27018-Norm, die Richtlinien für den Schutz personenbezogener Daten in der Cloud bietet.
+
+**Wann und warum ist sie notwendig?**
+
+Die Einhaltung der 27018-Norm ist notwendig, um den Schutz personenbezogener Daten in der Cloud zu gewährleisten und regulatorische Anforderungen zu erfüllen.
+
+**Wie hoch sind die durchschnittlichen Kosten?**
+
+Die Kosten variieren je nach Anbieter und spezifischen Anforderungen, umfassen jedoch in der Regel Beratungs- und Implementierungsgebühren.
+
+**Wie wählt man den richtigen Anbieter aus?**
+
+Die Auswahl des richtigen Anbieters erfordert eine Bewertung der technischen Kompetenzen, der angebotenen Dienstleistungen und der spezifischen Bedürfnisse Ihres Unternehmens.
+
+**Welche Zertifizierungen sind wichtig?**
+
+Wichtige Zertifizierungen umfassen ISO/IEC 27001, ISO/IEC 27018 und andere branchenspezifische Standards.
+
+**Wie kann die Compliance den Wettbewerbsvorteil verbessern?**
+
+Die Einhaltung der 27018-Norm kann das Vertrauen der Kunden stärken und einen Wettbewerbsvorteil auf dem Cloud-Markt bieten.
+
+**Welche Rolle spielt die Verschlüsselung bei der 27018 Compliance?**
+
+Verschlüsselung ist ein wesentlicher Bestandteil der 27018 Compliance, da sie den Schutz personenbezogener Daten während der Übertragung und Speicherung gewährleistet.
+
+**Wie unterstützt ISGroup SRL Unternehmen bei der 27018 Compliance?**
+
+ISGroup SRL bietet maßgeschneiderte Lösungen, die auf die spezifischen Bedürfnisse jedes Unternehmens zugeschnitten sind, und unterstützt Unternehmen bei der Einhaltung der 27018-Norm durch manuelle Tests und kontinuierliche Unterstützung.
+
+**Welche Vorteile bietet die Zusammenarbeit mit einem spezialisierten Anbieter?**
+
+Ein spezialisierter Anbieter kann maßgeschneiderte Lösungen bieten, die auf die spezifischen Bedürfnisse Ihres Unternehmens zugeschnitten sind, und eine kontinuierliche Unterstützung gewährleisten.
+
+**Wie kann die 27018 Compliance die Datensicherheit verbessern?**
+
+Die Einhaltung der 27018-Norm verbessert die Datensicherheit durch die Implementierung strenger Sicherheitsmaßnahmen und die Gewährleistung der Transparenz bei der Datenverarbeitung.
