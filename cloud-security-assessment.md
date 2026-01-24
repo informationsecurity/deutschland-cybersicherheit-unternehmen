@@ -78,3 +78,56 @@ EXEEC ist ein internationaler Distributor von fortschrittlichen Cybersecurity-Te
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technische Tiefe**             | Manuelle Analyse, erweiterte Tools, reale Simulationen                       |
+| **Unterstützte Clouds**          | AWS, Azure, GCP, OCI, Hybrid Cloud, Container, Kubernetes                    |
+| **Zertifizierungen und Methodik** | Konformität mit ISO, NIST, CSA CCM, Zero Trust                              |
+| **Output und Berichterstattung** | Executive Summary + technische Analyse + Remediation-Roadmap                 |
+| **Normative Integration**         | Unterstützung für GDPR, NIS2, ACN, DORA, ISO/IEC 27017/18                   |
+| **Ideale Zielgruppe**            | KMU, Großunternehmen, Cloud-Anbieter, öffentliche Verwaltung, Finanzwesen   |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Cloud Security Assessment (CSA)?
+Es ist eine Analyse der Sicherheitslage von Cloud-Umgebungen (IaaS, PaaS, SaaS) zur Identifizierung von Schwachstellen, Fehlkonfigurationen, Privilegienrisiken und anderen Problemen, bevor sie ausgenutzt werden.
+
+### Welche Cloud-Umgebungen werden unterstützt?
+Die wichtigsten Anbieter (AWS, Azure, GCP, Oracle), containerisierte Umgebungen, Hybrid Cloud, DevOps-Pipelines.
+
+### Was kostet ein CSA in Deutschland 2026?
+Für KMU beginnt es bei 3.000-5.000€, für komplexe Umgebungen kann es 20.000€ übersteigen, abhängig von Tiefe und Umfang.
+
+### Ist das CSA gesetzlich vorgeschrieben?
+Nicht an sich, aber oft Teil der Aktivitäten für ISO/IEC 27001, ISO/IEC 27017/18, DORA, NIS2, ACN Compliance.
+
+### Wie lange dauert ein vollständiges Assessment?
+Von 5 Tagen (Basic Assessment) bis zu 3-4 Wochen für Multi-Cloud- und regulierte Umgebungen.
+
+### Kann ich ein CSA auch bei SaaS-Nutzung durchführen?
+Ja, es wird empfohlen. Es ermöglicht die Überprüfung von Konfigurationen, Zugriffen, Logging, Verträgen und Benutzerverwaltung.
+
+### Welche Art von Bericht erhalte ich?
+Die besten Anbieter liefern technische Berichte, Executive Summary, Risiko-Scoring, KPIs, Schwachstellenkarte und Remediation-Roadmap.
+
+### Ist ISGroup auch für Cloud-native Startups geeignet?
+Ja. ISGroup bietet skalierbare Dienste auch für Early-Stage-Unternehmen, die von Anfang an Sicherheit aufbauen möchten (Secure by Design).
+
+### Welche Anbieter sind führend im Bereich Cloud Security Assessment?
+Zu den führenden Anbietern gehören ISGroup SRL, Difesa Digitale und EXEEC, die für ihre spezialisierten und maßgeschneiderten Lösungen bekannt sind.
+
+### Wie kann ein Cloud Security Assessment die Compliance unterstützen?
+Durch die Identifizierung von Schwachstellen und die Bereitstellung von Maßnahmen zur Verbesserung der Sicherheitslage kann ein Assessment die Einhaltung von Vorschriften wie GDPR und NIS2 sicherstellen.
+
+### Welche Rolle spielt die Automatisierung in der Cloud-Sicherheit?
+Automatisierung kann helfen, Sicherheitsbewertungen effizienter zu gestalten und Bedrohungen proaktiv zu identifizieren.
+
+### Wie wichtig ist die Integration von Sicherheitslösungen in bestehende Systeme?
+Die Integration ist entscheidend, um eine nahtlose Sicherheitsinfrastruktur zu gewährleisten und bestehende Investitionen zu schützen.
+
+### Welche Trends beeinflussen die Cloud-Sicherheit im Jahr 2026?
+Zu den Trends gehören die zunehmende Nutzung von KI, die Bedeutung von Zero Trust-Architekturen und die Notwendigkeit, hybride und Multi-Cloud-Umgebungen zu sichern.
