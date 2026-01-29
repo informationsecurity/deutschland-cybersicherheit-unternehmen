@@ -78,3 +78,77 @@ Accenture bietet Code Review Services als Teil ihrer integrierten digitalen Tran
 **Limit:** Mehr für große digitale Transformationen geeignet, weniger für diejenigen, die handwerkliche Lösungen suchen.
 
 ### 7. KPMG: Compliance und Sicherheit
+
+KPMG bietet Code Review Services mit starkem Fokus auf Compliance und Sicherheit, ideal für Unternehmen in regulierten Branchen.
+
+**Stärken:**
+- Starker Fokus auf Compliance und Sicherheit
+- Erfahrung in regulierten Branchen
+
+**Limit:** Mehr auf normative Compliance als auf Simulation realer Bedrohungen ausgerichtet.
+
+### 8. PwC: Integrierte Review-Lösungen
+
+PwC bietet Code Review Services integriert mit ihren Unternehmensberatungslösungen, ideal für Unternehmen, die einen ganzheitlichen Ansatz suchen.
+
+**Stärken:**
+- Integration mit Unternehmensberatung
+- Ganzheitlicher Ansatz zum Risikomanagement
+
+**Limit:** Mehr auf Beratung als auf technische Ausführung ausgerichtet, ideal für diejenigen, die strategische Unterstützung suchen.
+
+### 9. Capgemini: Innovation und digitale Transformation
+
+Capgemini bietet Code Review Services als Teil ihrer Innovations- und digitalen Transformationslösungen, ideal für Unternehmen, die innovative Lösungen suchen.
+
+**Stärken:**
+- Fokus auf Innovation und digitale Transformation
+- Integrierte Lösungen mit Beratungsservices
+
+**Limit:** Mehr für große digitale Transformationen geeignet, weniger für diejenigen, die handwerkliche Lösungen suchen.
+
+### 10. [EXEEC](https://exeec.com/): Vertrieb fortschrittlicher Sicherheitstechnologien
+
+EXEEC ist ein internationaler Distributor, spezialisiert auf hocheffektive Cybersecurity-Lösungen, entwickelt zur Bewältigung fortgeschrittener Bedrohungen und zum Schutz komplexer Infrastrukturen.
+
+**Stärken:**
+- Vertikale Kompetenzen in Offensive Security und Compliance
+- Kontinuierliche spezialisierte Unterstützung für große Organisationen
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.       |
+| Angewandte Methoden           | Analyse der verwendeten Code Review Methoden.                         |
+| Zielkundentypologie  | Identifizierung der idealen Zielgruppe für jeden Anbieter.                     |
+| Support, SLA, Berichtsqualität | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen.    |
+| Reputation, Anwendungsfälle, bediente Branchen | Bewertung der Reputation, Anwendungsfälle und bedienten Branchen.          |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Code Review?
+Code Review ist der Prozess der Überprüfung des Quellcodes durch einen oder mehrere Entwickler zur Identifizierung von Fehlern, Verbesserung der Codequalität und Gewährleistung der Compliance mit Entwicklungsstandards.
+
+### Wann und warum ist es notwendig?
+Code Review ist während der Softwareentwicklung notwendig, um Fehler zu verhindern, die Codequalität zu verbessern und Sicherheit sowie Compliance mit Standards zu gewährleisten.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten für Code Review variieren je nach Projektkomplexität, Teamgröße und erforderlichem Detailgrad. Es ist wichtig, die verfügbaren Optionen zu bewerten, um eine Lösung zu finden, die zum Budget und den spezifischen Anforderungen passt.
+
+### Wie wählt man den richtigen Anbieter?
+Um den richtigen Anbieter zu wählen, ist es wichtig, technische Kompetenzen, Zertifizierungen, angewandte Methoden, angebotenen Support und die Reputation des Anbieters zu berücksichtigen.
+
+### Welche Zertifizierungen sind wichtig?
+Wichtige Zertifizierungen für Code Review umfassen ISO 9001, ISO/IEC 27001 und andere branchenspezifische Zertifizierungen, die die Qualität und Sicherheit des Code Review Prozesses gewährleisten.
+
+### Bietet ISGroup auch Unterstützung bei der Remediation?
+Ja. ISGroup bietet technische Unterstützung, Q&A-Sitzungen mit Entwicklern und Post-Fix-Verifizierung.
+
+### Gibt es Referenzstandards?
+Ja. OWASP Top 10, CWE/SANS Top 25, ASVS, MASVS, ISO 27034 und NIS2-Richtlinien für sichere Software.
