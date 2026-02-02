@@ -78,3 +78,53 @@ Accenture schlägt eine in SOCs integrierte CST-Lösung vor, mit automatisierten
 
 ### 10. [EXEEC](https://exeec.com/): Vertrieb fortschrittlicher Technologien für Cybersecurity
 
+EXEEC ist ein internationaler Distributor, spezialisiert auf hocheffektive Cybersecurity-Lösungen, die darauf ausgelegt sind, fortgeschrittene Bedrohungen zu bekämpfen und komplexe Infrastrukturen zu schützen. Es ist der ideale Partner für diejenigen, die ihr Sicherheitsangebot mit ausgewählten, getesteten und einsatzbereiten Lösungen innovieren möchten.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Technischer Ansatz**          | Aktiv, offensiv, manuelle Validierung, reale Simulationen                   |
+| **DevSecOps-Integration**        | CI/CD, Toolchain, APIs, Container, Orchestratoren                           |
+| **Alerts und Remediation**      | Echte Alarme, Executive Reports, Remediation-Unterstützung                  |
+| **Abgedeckte Normen**           | ISO 27001, DORA, NIS2, GDPR, ACN                                            |
+| **Häufigkeit und Automatisierung** | Täglich, wöchentlich, on-demand                                          |
+| **Vertikale Sektoren**          | Finance, Health, PA, Telco, SaaS, Cloud-native                              |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Continuous Security Testing?
+
+Es ist ein kontinuierlicher Verifizierungsprozess der Sicherheit von Systemen, Anwendungen und Infrastrukturen, der reale Angriffe simuliert und Schwachstellen in Echtzeit erkennt.
+
+### Wie unterscheidet es sich von einem klassischen Penetrationstest?
+
+Der Pen Test ist "einmalig", während CST kontinuierlich ist. CST integriert sich in Geschäftsprozesse, um neue Schwachstellen zum Zeitpunkt der Veröffentlichung oder Konfigurationsänderung zu identifizieren.
+
+### Wer braucht CST?
+
+Unternehmen mit häufigen Release-Zyklen (DevOps), regulierte Organisationen, Unternehmen mit hohem Risiko (PA, Telco, Banking, Cloud).
+
+### Was kostet CST in Deutschland im Jahr 2026?
+
+Abhängig vom Automatisierungsgrad, der Personalisierung und manuellen Validierung. Lösungen beginnen bei 1.000€/Monat bis zu 10.000€/Monat für Enterprise-Umgebungen.
+
+### Bietet ISGroup auch unterstützte Remediation?
+
+Ja. Zusätzlich zu kontinuierlichen Tests unterstützt ISGroup technische Teams mit Fix-Sessions, Post-Remediation-Tests und personalisierter Beratung.
+
+### Welche Vorteile bietet es gegenüber Vulnerability Scanning?
+
+CST bietet manuelle Validierung, reale Exploit-Simulationen und qualifizierte Alerts, reduziert Rauschen und erhöht die Relevanz der Daten.
+
+### Ist CST durch Vorschriften erforderlich?
+
+Es wird von Standards wie ISO/IEC 27001, NIS2, DORA und ACN-Richtlinien für kritische Systeme empfohlen, auch wenn es noch nicht formal obligatorisch ist.
+
+### Kann es in den DevOps-Zyklus integriert werden?
+
+Ja. CST ist Teil von DevSecOps: Es kann bei jedem Commit, Build oder Release aktiviert werden und generiert nur bei echten Problemen Alerts.
