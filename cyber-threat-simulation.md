@@ -78,3 +78,41 @@ EXEEC ist ein internationaler Distributor, der sich auf hochwirksame Cybersecuri
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Realismus der Angriffe**       | APT-Techniken, Ransomware-Szenarien, Insider-Bedrohungen, reale TTP        |
+| **Abgedeckte Bereiche**          | IT, OT, IoT, Cloud, Mobile, SaaS, Container, CI/CD                         |
+| **Methodik**                     | MITRE ATT&CK, Red Teaming, Adversary Emulation, Purple Teaming             |
+| **Detection-Integration**        | SIEM, SOC, EDR, SOAR, Playbook-Tests                                       |
+| **Unterstützung bei Behebung**   | Technischer Bericht, Beweise, priorisierte Fixes, Q&A mit Teams           |
+| **Compliance**                   | DORA, BSI, ISO 27001, NIS2, OWASP, TIBER-EU                               |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist eine Cyber Threat Simulation (CTS)?
+Es ist eine kontrollierte Simulation realistischer Cyberangriffe, die durchgeführt wird, um die Widerstandsfähigkeit des Unternehmens, die Erkennungsfähigkeit und die SOC-Bereitschaft zu testen.
+
+### Was ist der Unterschied zu einem Penetrationstest?
+Der Pen Test sucht nach Schwachstellen. CTS simuliert eine Kompromittierung mit fortgeschrittenen Techniken und bewertet Erkennung und Reaktion, nicht nur technische Exposition.
+
+### Wer sollte eine Bedrohungssimulation durchführen?
+Unternehmen in regulierten Sektoren, die kritische Daten verwalten oder Ransomware ausgesetzt sind, und die die Wirksamkeit ihres SOC oder ihrer Playbooks testen möchten.
+
+### Was kostet eine CTS in Deutschland im Jahr 2026?
+Zwischen 5.000€ und 50.000€ je nach Komplexität, Dauer und Anzahl der simulierten Szenarien.
+
+### Bietet ISGroup auch Incident Response-Übungen an?
+Ja. ISGroup-Simulationen umfassen Live-Sessions mit IT/SOC-Teams, Playbook-Validierung und Unterstützung bei der Definition von Verbesserungsplänen.
+
+### Wie lange dauert eine Simulationsübung?
+Von wenigen Tagen (gezielte Übung) bis zu 4 Wochen für ein persistentes Red Team mit mehreren Szenarien (Cloud, On-Prem, Insider).
+
+### Ist es gesetzlich vorgeschrieben?
+CTS ist noch nicht obligatorisch, wird aber in DORA-, BSI-, ISO/IEC 27001- und öffentlichen Ausschreibungen mit hoher Kritikalität gefordert.
+
+### Kann ich eine Simulation durchführen, ohne die Aktivität zu unterbrechen?
+Ja. Die Tests werden "stealth" durchgeführt, ohne die Dienste zu beeinträchtigen, aber Logs und Ereignisse zu generieren, als ob es sich um einen echten Angriff handelte.
