@@ -78,3 +78,38 @@ EXEEC ist ein internationaler Distributor, der sich auf hochwirksame Cybersecuri
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Reaktionszeit**                | 24/7, garantierte SLAs, Remote-/Vor-Ort-Intervention                       |
+| **Forensische Fähigkeiten**      | Beweissammlung, rechtliche Gültigkeit, Chain of Custody                     |
+| **Abgedeckte Bereiche**          | Endpoint, Server, Mobile, Cloud, OT, SaaS, Container                        |
+| **Zertifizierungen**             | OSCP, GCIH, GCFA, CISA, CHFI, CISSP                                         |
+| **Post-Incident-Support**        | Recovery, Hardening, Kommunikation, regulatorische Berichterstattung       |
+| **Vertikale Sektoren**           | Finanzen, Gesundheitswesen, öffentliche Verwaltung, Cloud, Fertigung, Energie |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist DFIR?
+DFIR (Digital Forensics & Incident Response) ist die Gesamtheit der Praktiken zur Reaktion, Analyse und Lösung von IT-Vorfällen, einschließlich der Sammlung von Beweisen und der Rekonstruktion des Angriffs.
+
+### Wann ist es notwendig?
+Sofort nach einem Angriff (Ransomware, Phishing, Datenpanne), während einer verdächtigen Anomalie oder für Post-Incident-Audits.
+
+### Greift ISGroup auch nachts oder am Wochenende ein?
+Ja. Der DFIR-Service von ISGroup ist 24/7 aktiv, mit schneller Eskalation und sofortiger Unterstützung, auch vor Ort.
+
+### Können die Beweise vor Gericht verwendet werden?
+Ja, wenn sie ordnungsgemäß gesammelt werden. ISGroup garantiert Chain of Custody und validierte Sammlung.
+
+### Welche Umgebungen werden abgedeckt?
+PCs, Server, Cloud (AWS, Azure, GCP), SaaS, OT/ICS-Netzwerke, Mobile, Container, Backups.
+
+### Was kostet eine DFIR-Intervention?
+Abhängig von Komplexität und Zeitrahmen. Beginnend bei 3.000€ für Grunduntersuchungen bis über 30.000€ für großangelegte Vorfälle oder solche mit regulatorischen Implikationen.
+
+### Ist eine Cyber-Versicherung erforderlich?
+Nicht obligatorisch, aber empfohlen. ISGroup arbeitet mit Versicherern zusammen, um gültige forensische Dokumentation bereitzustellen.
