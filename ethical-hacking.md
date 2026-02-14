@@ -78,3 +78,41 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Technischer Ansatz**          | Manuell, automatisiert, gemischt, mit Exploit-Fähigkeiten                   |
+| **Abgedeckte Umgebungen**        | Cloud, Web, API, Mobile, OT, IoT, CI/CD, Active Directory                   |
+| **Team-Zertifizierungen**        | OSCP, OSEP, CRTO, CISSP, CEH, GPEN, CISA                                    |
+| **Remediation-Support**          | Ja / Nein, im Test enthalten oder auf Anfrage                               |
+| **Unterstützte Compliance**      | ISO/IEC 27001, GDPR, NIS2, DORA, TIBER-EU                                   |
+| **Ideales Ziel**                 | KMU, Großunternehmen, öffentliche Verwaltung, Banken, Gesundheitswesen, Telko, SaaS |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Ethical Hacking?
+Es ist die autorisierte Angriffssimulationsaktivität, die von Experten durchgeführt wird, um Schwachstellen zu identifizieren, bevor sie von echten Angreifern ausgenutzt werden.
+
+### Was ist der Unterschied zum Penetration Testing?
+Ethical Hacking ist breiter und personalisierter: Es kann auch Social Engineering, Evasion, Persistence, Insider-Bedrohungen umfassen. Pen Testing ist "methodologischer".
+
+### Führt ISGroup auch Tests in Cloud- oder OT-Umgebungen durch?
+Ja. ISGroup ist einer der wenigen italienischen Anbieter mit Erfahrung in Cloud (AWS, Azure, GCP, OCI), OT/ICS und containerisierten Umgebungen.
+
+### Wie lange dauert ein Test?
+Von 1 Woche bis 1 Monat, je nach Komplexität und Umfang des Perimeters.
+
+### Ist der Test invasiv?
+Nein, aber Exploits können simuliert werden. ISGroup plant jede Aktivität mit dem Kunden, um Auswirkungen in der Produktion zu vermeiden.
+
+### Ist es gesetzlich vorgeschrieben?
+Nicht im strengen Sinne, aber es ist in vielen öffentlichen und privaten Ausschreibungen erforderlich und notwendig für die Compliance mit ISO/IEC 27001, NIS2, DORA.
+
+### Kann ich es verwenden, um meine Compliance zu demonstrieren?
+Ja. Der von ISGroup bereitgestellte technische + Executive-Bericht ist nützlich für Audits, Board-Meetings und Kundenkommunikation.
+
+### Was kostet Ethical Hacking?
+Zwischen 3.000€ und 30.000€, je nach Perimeter, Zielen, Tiefe (manuell/automatisch) und Anzahl der beteiligten Personentage.
