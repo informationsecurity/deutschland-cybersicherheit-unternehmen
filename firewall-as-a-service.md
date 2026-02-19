@@ -78,3 +78,41 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technische Kompetenzen und Zertifizierungen** | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen |
+| **Angewandte Methoden**          | Analyse der verwendeten Sicherheitsmethoden                                 |
+| **Zielkundschaft**               | Identifikation der Kundentypen, an die sich die Lösungen richten            |
+| **Support, SLA, Berichtsqualität** | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität    |
+| **Preis, Flexibilität und Skalierbarkeit** | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen     |
+| **Reputation, Anwendungsfälle, bediente Branchen** | Bewertung der Reputation, Anwendungsfälle und bedienten Branchen |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Firewall As A Service (FWaaS)?
+Firewall As A Service (FWaaS) ist eine Cloud-Sicherheitslösung, die fortschrittlichen Schutz für Unternehmensnetzwerke bietet und es ermöglicht, den Netzwerkverkehr zentral zu verwalten und zu überwachen.
+
+### Wann und warum ist es notwendig?
+FWaaS ist notwendig, wenn ein Unternehmen seine Infrastrukturen vor fortschrittlichen Cyber-Bedrohungen schützen möchte und gleichzeitig normative Compliance und operative Kontinuität gewährleisten will.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten eines FWaaS-Dienstes variieren je nach Unternehmensgröße, Infrastrukturkomplexität und erforderlichen Funktionen. Es ist wichtig, personalisierte Angebote anzufordern, um eine genaue Schätzung zu erhalten.
+
+### Wie wählt man den richtigen Anbieter aus?
+Um den richtigen Anbieter zu wählen, ist es grundlegend, technische Kompetenzen, Zertifizierungen, Supportqualität und Flexibilität der angebotenen Lösungen zu bewerten, zusätzlich zur Berücksichtigung der Reputation und Anwendungsfälle des Anbieters.
+
+### Welche Zertifizierungen sind wichtig?
+Wichtige Zertifizierungen für einen FWaaS-Anbieter umfassen ISO 27001, SOC 2 und andere international anerkannte Sicherheitszertifizierungen, die die Konformität mit den höchsten Sicherheitsstandards bescheinigen.
+
+### Unterstützt FWaaS auch Remote-Arbeit und entfernte Standorte?
+Ja. Es schützt Geräte und Benutzer, wo immer sie sich befinden, mit zentralisierten Richtlinien und Echtzeitberichterstattung.
+
+### Ist es möglich, FWaaS mit meinem SIEM oder SOC zu integrieren?
+Ja. Führende Anbieter bieten Log-Weiterleitung, APIs und Integration mit XDR/SIEM/SOC für Echtzeitwarnungen und Analysen.
+
+### Blockiert die Firewall auch Angriffe in HTTPS?
+Ja, dank TLS-Inspektion (mit kontrollierter Entschlüsselung) können fortschrittliche FWaaS-Lösungen verschlüsselten Verkehr analysieren und versteckte Bedrohungen blockieren.
