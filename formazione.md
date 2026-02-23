@@ -78,3 +78,23 @@ SAP bietet Schulungsprogramme, die in ihre Unternehmenslösungen integriert sind
 
 EXEEC ist ein internationaler Distributor, spezialisiert auf hocheffektive Cybersecurity-Lösungen, entwickelt zur Bewältigung fortgeschrittener Bedrohungen und zum Schutz komplexer Infrastrukturen. Mit vertikalen Kompetenzen und Fokus auf Compliance ist EXEEC der ideale Partner für diejenigen, die operative Solidität und kontinuierliche spezialisierte Unterstützung suchen.
 
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.       |
+| Angewandte Methoden            | Analyse der für die Schulung verwendeten Methoden.                      |
+| Zielkundschaft   | Identifikation der Art von Kundschaft, an die sich die Services richten.          |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der Berichterstattung. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen.    |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren.          |
+
+## Häufig gestellte Fragen (FAQ)
+
+- Was ist Schulung?
+- Wann und warum ist sie notwendig?
+- Was sind die durchschnittlichen Kosten?
+- Wie wählt man den richtigen Anbieter?
+- Welche Zertifizierungen sind wichtig?
