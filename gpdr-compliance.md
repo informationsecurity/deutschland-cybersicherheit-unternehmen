@@ -78,3 +78,35 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.     |
+| Angewandte Methoden            | Analyse der verwendeten Methoden zur Gewährleistung der DSGVO-Compliance.      |
+| Art der Zielkundschaft   | Identifizierung des idealen Kundentyps für jeden Anbieter.         |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der Berichterstattung. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen.  |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren.        |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist DSGVO-Compliance?
+
+DSGVO-Compliance bezieht sich auf die Einhaltung der Vorschriften der Datenschutz-Grundverordnung (DSGVO), die Richtlinien für die Sammlung und Verwaltung personenbezogener Daten in der Europäischen Union festlegt.
+
+### Wann und warum ist sie notwendig?
+
+DSGVO-Compliance ist für alle Unternehmen erforderlich, die personenbezogene Daten von EU-Bürgern verarbeiten, um die Privatsphäre zu schützen und rechtliche Sanktionen zu vermeiden.
+
+### Was sind die durchschnittlichen Kosten?
+
+Die durchschnittlichen Kosten für DSGVO-Compliance variieren je nach Unternehmensgröße und Komplexität der Operationen, mit Preisen, die von €1.500 bis €15.000 variieren können.
+
+### Wie wählt man den richtigen Anbieter aus?
+
+Die Wahl des richtigen Anbieters hängt von Faktoren wie technischen Kompetenzen, angewandten Methoden, angebotenem Support und Reputation in der Branche ab.
+
+### Welche Zertifizierungen sind wichtig?
+
+Wichtige Zertifizierungen für DSGVO-Compliance umfassen ISO 27001, ISO 9001 und andere Sicherheits- und Datenmanagement-Zertifizierungen.
