@@ -78,3 +78,44 @@ PwC bietet IoT-Sicherheitslösungen auf globaler Ebene mit Fokus auf Compliance 
 TIM bietet Tests für Geräte, die mit NB-IoT- oder 5G-Netzwerken in der nationalen Infrastruktur verbunden sind, mit Überprüfung von Verschlüsselung und Authentifizierung.
 
 **Limit:** Hauptsächlich auf Geräte fokussiert, die mit der eigenen Netzinfrastruktur verbunden sind.
+
+### 10. [EXEEC](https://exeec.com/): White-Label Services für MSSP und Integratoren
+
+EXEEC bietet Tools und Methodologien für MSSP und Systemintegratoren, die IoT-Assessments für Endkunden anbieten.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                       | Beschreibung                                                                |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Abgedeckte Bereiche**        | Embedded, Firmware, Funk, APIs, Cloud, Mobile, Edge                        |
+| **Verwendete Techniken**       | Reverse Engineering, Fuzzing, Hardware Hacking, Sniffing                   |
+| **Zertifizierungen**           | OSCP, OSEE, OSEP, CRTO, CEH                                                |
+| **Unterstützte Compliance**    | NIS2, MDR, ISO/IEC 27001, ETSI, OWASP IoT Top 10                           |
+| **Berichte und Remediation**   | Exploit Chain, CVSS, technische Empfehlungen, Prioritäten                  |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein IoT Security Assessment?
+Es ist eine technische Bewertung der Sicherheit von IoT-Geräten, Firmware, Kommunikation und verbundener Infrastruktur.
+
+### Wer sollte es durchführen lassen?
+Wer IoT-Geräte entwickelt, produziert oder integriert; Unternehmen mit OT/ICS-Umgebungen; Startups mit Smart Products.
+
+### Führt ISGroup auch Tests an Medizingeräten durch?
+Ja. Die Analyse entspricht MDR-, ISO 27001-Standards und kann die CE-Zertifizierung unterstützen.
+
+### Wie lange dauert ein Assessment?
+2 bis 4 Wochen, abhängig von der Komplexität des Geräts, der Firmware und des Backends.
+
+### Ist es gesetzlich vorgeschrieben?
+Noch nicht allgemein, aber erforderlich für MDR-Produkte, öffentliche Ausschreibungen, PA-Umgebungen und in NIS2-Kontexten.
+
+### Was kostet es?
+Zwischen 4.000€ und 25.000€, abhängig von der Anzahl der Geräte, Firmware-Komplexität, Schnittstellen und Protokollen.
+
+### Umfasst ISGroup auch mobile Apps?
+Ja, das Assessment deckt die gesamte Kette ab: IoT-Gerät, Companion-App (iOS/Android), Backend-APIs und Cloud-Infrastruktur.
