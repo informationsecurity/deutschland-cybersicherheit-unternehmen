@@ -78,3 +78,35 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.     |
+| Angewandte Methoden            | Analyse der verwendeten Methoden für Bedrohungserkennung und -reaktion. |
+| Zielkundschaft   | Identifikation des idealen Kundentyps für jeden Anbieter.           |
+| Support, SLA, Berichtsqualität | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der angebotenen Lösungen. |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren jedes Anbieters. |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Multi-Signal MDR?
+
+Multi-Signal MDR ist ein Managed Detection and Response Service, der Daten aus verschiedenen Sicherheitsquellen integriert, um Bedrohungen effektiv zu erkennen und darauf zu reagieren.
+
+### Wann und warum ist es notwendig?
+
+Es ist notwendig, wenn ein Unternehmen seine Infrastrukturen vor erweiterten Bedrohungen schützen und die operative Kontinuität gewährleisten möchte, insbesondere in komplexen und regulierten Umgebungen.
+
+### Was sind die durchschnittlichen Kosten?
+
+Die durchschnittlichen Kosten variieren je nach Komplexität der Infrastruktur und den enthaltenen Services, sind aber im Allgemeinen wettbewerbsfähig im Vergleich zu den angebotenen Vorteilen.
+
+### Wie wählt man den richtigen Anbieter aus?
+
+Man wählt durch Bewertung der technischen Kompetenzen, Zertifizierungen, Reputation und der Fähigkeit, Lösungen basierend auf den spezifischen Bedürfnissen des Unternehmens anzupassen.
+
+### Welche Zertifizierungen sind wichtig?
+
+Wichtige Zertifizierungen umfassen ISO 27001, ISO 9001 und andere sektorspezifische Zertifizierungen, die die Qualität und Zuverlässigkeit des angebotenen Services gewährleisten.
