@@ -78,3 +78,40 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Umfang**                      | Intern, extern, DMZ, Cloud, Hybrid, AD, OT                                 |
+| **Methode**                     | Manuell, echte Exploitation, keine False Positives                         |
+| **Techniken**                   | MITRE ATT&CK, Red Team, Privilegienerweiterung, AD-Angriffe               |
+| **Zertifizierungen**            | OSCP, CRTO, CISSP, CISA, CEH                                               |
+| **Unterstützte Compliance**     | ISO/IEC 27001, ACN, NIS2, DORA, GDPR                                       |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Network Penetration Test?
+Es ist ein Test, der einen Angriff auf ein Unternehmensnetzwerk simuliert, um Schwachstellen zu identifizieren, die von einem Angreifer tatsächlich ausgenutzt werden können.
+
+### Führt ISGroup auch Tests an Active Directory durch?
+Ja. AD-Angriffe sind ein Kernbestandteil der Tests: Golden Ticket, Kerberoasting, ACL-Missbrauch, RBCD, LLMNR-Spoofing.
+
+### Wird der PT manuell oder mit automatischen Tools durchgeführt?
+Manuell. Tools dienen nur zur Unterstützung. Die Exploitation und Strategie werden von ISGroup-Experten durchgeführt.
+
+### Was kostet ein Penetration Test?
+Abhängig von Größe und Umfang. Ab ~4.000€ für einfache Netzwerke, über 12.000€ für komplexe Umgebungen.
+
+### Ist der Bericht für Auditoren oder Vorstand geeignet?
+Ja. ISGroup liefert einen doppelten Bericht: technisch mit Exploits + Executive mit Risiko und Remediation.
+
+### Kann der Test Ausfälle verursachen?
+Nein, wenn gewünscht, wird er im "sicheren" Modus ohne produktive Auswirkungen durchgeführt. Möglichkeit eines Testfensters.
+
+### Deckt der Test auch Cloud und VPN ab?
+Ja. ISGroup führt auch PT auf VPN, Cloud, Hybrid, SD-WAN, Zero Trust Network durch.
+
+### Ist der PT für Compliance nützlich?
+Absolut ja. Er wird von NIS2, DORA, ISO/IEC 27001, ACN zur Überprüfung der tatsächlichen Sicherheitslage gefordert.
