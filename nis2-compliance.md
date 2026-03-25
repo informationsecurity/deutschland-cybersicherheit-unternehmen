@@ -78,3 +78,40 @@ EXEEC ist ein internationaler Distributor, der sich auf fortschrittliche Cybersi
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                      | Beschreibung                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| **Abgedeckte Verpflichtungen** | Art. 21 NIS2: Governance, Risiko, Supply Chain, BC/DR, Vorfälle             |
+| **Technische Maßnahmen**       | MFA, Pentest, SOC, EDR/XDR, Vulnerability Management                        |
+| **Dokumentationsunterstützung** | Gap-Analyse, Roadmap, Checklisten, Audit-Bereitschaft                      |
+| **Compliance-Integration**      | ISO/IEC 27001, DSGVO, BSI, DORA, PCI DSS                                   |
+| **Lieferung**                  | Audit, Beratung, verwaltete Dienste, Schulungen                             |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Wer ist zur NIS2-Compliance verpflichtet?
+Öffentliche und private Organisationen in den Bereichen: Energie, Transport, Banken, Gesundheitswesen, digitale Infrastrukturen, IT-Anbieter und öffentliche Verwaltung. ISGroup hilft bei der Überprüfung, ob Sie betroffen sind.
+
+### Was sind die NIS2-Sanktionen?
+Bis zu 10 Millionen Euro oder 2% des globalen Umsatzes, Aussetzung der Geschäftsführung, behördliche Inspektionen.
+
+### Bietet ISGroup auch verwaltete Dienste (SOC, vCISO)?
+Ja. Um 24/7-Kontinuität und praktische Unterstützung für technische und strategische Compliance zu gewährleisten.
+
+### Wie lange dauert ein NIS2-Projekt?
+4 bis 12 Wochen je nach Größe, Reifegrad und Dringlichkeit. Möglichkeit einer phasenweisen Roadmap.
+
+### Was kostet es?
+Ab ~7.000€ für Gap-Analyse und Roadmap. Vollständige Projekte ab 20.000€ für wesentliche Subjekte.
+
+### Unterstützt ISGroup auch die Vorfallsmeldung?
+Ja. Bietet Prozess, Tabletop-Simulationen, Playbooks und Dokumentation für Meldungen innerhalb von 24h.
+
+### Deckt das Projekt auch die Supply Chain ab?
+Ja. ISGroup analysiert die IT-Lieferkette und schlägt Maßnahmen zur Risikominderung vor.
+
+### Muss die Compliance jedes Jahr erneuert werden?
+Sie muss aufrechterhalten werden: ISGroup bietet jährliche Check-ups, Updates und kontinuierliche Überwachung.
