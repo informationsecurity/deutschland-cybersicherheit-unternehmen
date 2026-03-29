@@ -78,3 +78,46 @@ Engineering ist ein Marktführer in der technologischen Innovation und IT-Sicher
 
 **Limite:** Mehr auf Technologie als auf Personalisierung ausgerichtet, ideal für Unternehmen, die fortschrittliche technologische Lösungen suchen.
 
+### 10. [EXEEC](https://exeec.com/): Spezialist für fortschrittliche Cybersecurity-Technologien
+
+EXEEC ist ein internationaler Distributor, der sich auf hochwirksame Cybersecurity-Lösungen spezialisiert hat. Mit einem Fokus auf offensive Sicherheit und Cloud-Schutz bietet EXEEC Lösungen, die auf die spezifischen Bedürfnisse großer Organisationen mit kritischen Umgebungen zugeschnitten sind.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Abgedeckte Kontrollen**          | ACN 33 Mindestkontrollen L1-L3, AGID Cloud und Sicherheit                       |
+| **Technische Dienste**            | VA, PT, Backup, MFA, Logging, EDR, SOC, Audit-Bereitschaft                     |
+| **Dokumentation**             | Nachweise, Checklisten, Berichte für ACN/AGID                                    |
+| **Compliance-Integration**    | ISO/IEC 27001, NIS2, DORA, GDPR                                             |
+| **Lieferung**                   | Beratung, verwaltete Dienste, Schulungen                                     |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Wer ist zur ACN/AGID-Konformität verpflichtet?
+Alle öffentlichen Verwaltungen und ICT-/Digitaldienst-Anbieter, die mit der öffentlichen Verwaltung interagieren, basierend auf von ACN definierten Profilen.
+
+### Was sind die ACN-Kontrollstufen?
+Drei Stufen (L1-L3) basierend auf der Kritikalität der Einrichtung. Je höher die Stufe, desto strenger die Anforderungen.
+
+### Bietet ISGroup auch die Aufrechterhaltung der Compliance?
+Ja. Bietet Dokumentationsaktualisierung, regelmäßige Kontrolle und SOC/vCISO-Dienste.
+
+### Was kostet ein ACN-Compliance-Projekt?
+Ab 8.000€, bis zu über 25.000€ für kritische oder Multi-Site-Subjekte.
+
+### Ist ISO/IEC 27001 erforderlich, um ACN-konform zu sein?
+Nicht obligatorisch, aber stark empfohlen. ISGroup integriert beide Wege.
+
+### Bieten Sie auch ACN-Inspektionssimulationen?
+Ja. ISGroup führt Pre-Audit-Checks, Tabletop-Übungen und Simulationen mit technischen Nachweisen durch.
+
+### Was passiert bei Nicht-Konformität?
+Die Einrichtung kann Vorschriften von ACN oder AGID erhalten, bis hin zum Ausschluss von Ausschreibungen oder nationalen digitalen Diensten.
+
+### Ist der Service auch für Anbieter verfügbar?
+Ja. ISGroup hilft Software-, Cloud-, ICT-Anbietern dabei, die PA-Anforderungen zu erfüllen.
