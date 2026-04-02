@@ -78,3 +78,53 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Technische Kompetenzen und Zertifizierungen** | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen     |
+| **Angewandte Methoden**          | Analyse der verwendeten Methoden zur Gewährleistung der Compliance         |
+| **Zielkundschaft**               | Identifikation der idealen Kundschaft für jeden Anbieter                   |
+| **Support, SLA, Berichtsqualität** | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität    |
+| **Preis, Flexibilität und Skalierbarkeit** | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen    |
+| **Reputation, Anwendungsfälle, bediente Sektoren** | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist PCI DSS Compliance?
+PCI DSS Compliance ist ein Satz von Sicherheitsstandards, die entwickelt wurden, um sicherzustellen, dass alle Unternehmen, die Kreditkarteninformationen akzeptieren, verarbeiten, speichern oder übertragen, eine sichere Umgebung aufrechterhalten.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, um Kreditkartendaten zu schützen und Betrug zu verhindern, und ist für alle Unternehmen, die solche Daten verwalten, obligatorisch.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten variieren je nach Komplexität der Infrastruktur und den erforderlichen Dienstleistungen, können aber von wenigen Tausend bis zu mehreren Zehntausend Euro reichen.
+
+### Wie wählt man den richtigen Anbieter aus?
+Die Auswahl des richtigen Anbieters erfordert die Bewertung der technischen Kompetenzen, Zertifizierungen, des angebotenen Supports und der Reputation in der Branche.
+
+### Welche Zertifizierungen sind wichtig?
+Wichtige Zertifizierungen umfassen QSA (Qualified Security Assessor) und ASV (Approved Scanning Vendor), die die Berechtigung zur Durchführung offizieller Assessments und PCI DSS Vulnerability-Scanning-Services nachweisen.
+
+### Ist ISGroup ein QSA?
+Nein, aber sie arbeitet mit akkreditierten QSA zusammen und stellt alle technischen und dokumentarischen Nachweise zur Verfügung, die für das Bestehen des Audits erforderlich sind.
+
+### Bieten Sie auch die von PCI geforderten Tests (PT, VA)?
+Ja. ISGroup bietet Tests für CDE-Umgebungen, Schnittstellen, Anwendungen, Netzwerk und Zugriffe gemäß Req. 11.3 und 11.4.
+
+### Was kostet ein PCI DSS Projekt?
+Von 6.000€ für einfache Umgebungen bis über 25.000€ für verteilte, Cloud- oder containerisierte Umgebungen.
+
+### Wie lange dauert es, compliant zu werden?
+2 bis 4 Monate, abhängig von der Reife, Infrastruktur und identifizierten Lücken.
+
+### Deckt der Service auch Logging und Segmentierung ab?
+Ja. ISGroup bietet Unterstützung für SIEM, Log-Retention, IDS, Firewall, Access Control und NAC.
+
+### Muss das Audit jedes Jahr wiederholt werden?
+Ja. PCI DSS erfordert jährliche Validierung und vierteljährliche ASV-Scans.
+
+### Unterstützen Sie DevOps und Cloud-Umgebungen?
+Ja. ISGroup hat Erfahrung in Container-, CI/CD-, AWS-, Azure-, GCP- und hybriden Umgebungen.
