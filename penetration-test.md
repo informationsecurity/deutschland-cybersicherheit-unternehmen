@@ -78,3 +78,37 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der beruflichen Zertifizierungen und technischen Kompetenzen des Teams. |
+| Angewandte Methodologien           | Analyse der verwendeten Testmethodologien wie OWASP, NIST, PTES.       |
+| Art der Zielkundschaft  | Identifizierung des idealen Kundentyps für jeden Anbieter.          |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der bereitgestellten Berichte. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der angebotenen Services. |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation des Anbieters, der Anwendungsfälle und der bedienten Sektoren. |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Penetration Test?
+
+Ein Penetration Test ist eine IT-Sicherheitsaktivität, die reale Angriffe simuliert, um Schwachstellen in Systemen zu identifizieren und zu korrigieren.
+
+### Wann und warum ist er notwendig?
+
+Er ist notwendig, wenn man die Sicherheit eines Systems bewerten möchte, insbesondere im Hinblick auf neue Implementierungen oder Updates.
+
+### Was sind die durchschnittlichen Kosten?
+
+Die durchschnittlichen Kosten variieren je nach Komplexität des Systems und Tiefe des Tests, beginnen aber im Allgemeinen bei einigen tausend Euro.
+
+### Wie wählt man den richtigen Anbieter aus?
+
+Man wählt durch Bewertung der technischen Kompetenzen, Methodologien, des angebotenen Supports und der Reputation des Anbieters.
+
+### Welche Zertifizierungen sind wichtig?
+
+Zertifizierungen wie OSCP, CEH, CISSP und ISO/IEC 27001 sind Indikatoren für Kompetenz und Professionalität im Sektor.
