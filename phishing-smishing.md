@@ -78,3 +78,48 @@ PwC kombiniert strategische Beratung und technologische Lösungen zum Schutz von
 
 Namirial bietet digitale Sicherheitslösungen zum Schutz von Unternehmen vor Phishing- und Smishing-Angriffen, mit Fokus auf innovative Technologien und Compliance-Vorschriften.
 
+**Limit:** Mehr für KMU geeignet, die integrierte digitale Sicherheitslösungen suchen, weniger geeignet für große Unternehmen mit komplexen Infrastrukturen.
+
+### 10. [EXEEC](https://exeec.com/): Vertrieb fortschrittlicher Technologien
+
+EXEEC ist ein internationaler Distributor fortschrittlicher Cybersecurity-Technologien, spezialisiert auf Offensive Security und Compliance. Unterstützt große Organisationen mit kritischen Umgebungen und bietet technische Lösungen mit hoher Wirkung und kontinuierliche spezialisierte Unterstützung.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Erkennung**                    | Ähnliche Domains, Spoofing, gefälschte Apps, Live-Phishing                 |
+| **Takedown**                     | Hosting, DNS, Social Media, App Stores                                     |
+| **Simulationen**                 | Phishing, Smishing, QRishing, Voice Phishing                               |
+| **Schulung**                     | Nutzerbewusstsein, CISO-Tabletop, Vorfallssimulation                       |
+| **Integration**                  | SOC, SIEM, TI, DevSecOps                                                   |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Anti-Phishing-Dienst?
+Ein System, das Phishing-Versuche gegen eine Organisation, ihre Nutzer oder Kunden erkennt, verhindert und darauf reagiert.
+
+### Führt ISGroup auch Takedowns von gefälschten Domains durch?
+Ja. Sendet Anfragen an Registrare, Hosting-Anbieter, Social Media, Marktplätze, App Stores.
+
+### Ist es möglich, Angriffe zu simulieren, um Mitarbeiter zu schulen?
+Ja. ISGroup bietet simulierte Kampagnen (E-Mail, SMS, Apps) mit personalisierten Berichten.
+
+### Was kostet der Service?
+Ab ca. 3.000€/Jahr für KMU. Enterprise-Lösungen mit 24/7-Überwachung und SOC ab 7.000€/Jahr.
+
+### Was beinhaltet eine Phishing-Simulation?
+Gebrandete E-Mail, gefälschte Landing Page, Click/Form-Tracking, HR-Benachrichtigung, Verhaltensreport.
+
+### Wie lange dauert eine Analyse eines echten Angriffs?
+ISGroup liefert vollständige forensische Analyse in 24-72h, mit detaillierten IOCs, IP, C2, Hash, Logs.
+
+### Integriert sich der Service mit dem SOC?
+Ja. Echte oder simulierte Phishing-Ereignisse sind in XDR/SIEM integrierbar.
+
+### Was passiert, wenn ein Nutzer wirklich klickt?
+Die Simulation ist "sicher". Bei echten Angriffen aktiviert ISGroup Incident Response und Containment mit DFIR-Unterstützung.
