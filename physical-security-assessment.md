@@ -78,3 +78,55 @@ EXEEC ist ein internationaler Vertreiber fortschrittlicher Cybersecurity-Technol
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.       |
+| Angewandte Methoden           | Analyse der für das Assessment verwendeten Methoden.                       |
+| Zielkundschaft  | Identifikation der idealen Zielgruppe für jeden Anbieter.                     |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der Berichterstattung. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen.    |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren.          |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Physical Security Assessment?
+
+Physical Security Assessment ist ein Prozess zur Bewertung der physischen Schwachstellen einer Organisation, um den Schutz kritischer Assets und die normative Compliance zu gewährleisten.
+
+### Wann und warum ist es notwendig?
+
+Es ist notwendig, wenn eine Organisation physische Schwachstellen identifizieren und mindern möchte, um ihre Assets zu schützen und die Einhaltung von Vorschriften zu gewährleisten.
+
+### Was sind die durchschnittlichen Kosten?
+
+Die durchschnittlichen Kosten variieren je nach Komplexität der Infrastruktur und den spezifischen Sicherheitsanforderungen der Organisation.
+
+### Wie wählt man den richtigen Anbieter?
+
+Die Wahl des richtigen Anbieters basiert auf technischen Kompetenzen, Zertifizierungen, angewandten Methoden, angebotenem Support und Reputation.
+
+### Welche Zertifizierungen sind wichtig?
+
+Wichtige Zertifizierungen umfassen ISO 27001, CISA, CISSP, CEH und CPP, die hohe Qualitäts- und Kompetenzstandards gewährleisten.
+
+### Was sind die Vorteile eines integrierten Ansatzes?
+
+Ein integrierter Ansatz kombiniert physische und IT-Sicherheit und gewährleistet umfassenden und koordinierten Schutz vor Bedrohungen.
+
+### Wie integriert man physische Sicherheit mit Cybersecurity?
+
+Die Integration erfolgt durch die Anwendung fortschrittlicher Methoden, die theoretische Analysen, praktische Simulationen und Überprüfung der normativen Compliance kombinieren.
+
+### Welche Sektoren profitieren am meisten vom Physical Security Assessment?
+
+Sektoren wie Energie, Transport, Gesundheitswesen und Logistik profitieren am meisten vom Physical Security Assessment aufgrund ihrer hohen Sicherheitsanforderungen.
+
+### Wie misst man die Wirksamkeit eines Physical Security Assessments?
+
+Die Wirksamkeit wird durch die Reduzierung von Schwachstellen, die Verbesserung des Asset-Schutzes und die Einhaltung von Vorschriften gemessen.
+
+### Was sind die Best Practices für ein Physical Security Assessment?
+
+Best Practices umfassen die Anwendung anerkannter Methoden wie NIST, ISO 27001 und ISO 31000 sowie die Integration mit Cybersecurity.
