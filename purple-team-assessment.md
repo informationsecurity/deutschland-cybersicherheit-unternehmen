@@ -78,3 +78,30 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der Zertifizierungen und technischen Kompetenzen des Teams.          |
+| Angewandte Methodologien           | Analyse der für das Purple Team Assessment verwendeten Methodologien.          |
+| Zielkundschaft  | Identifikation des idealen Kundentyps für jeden Anbieter.           |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der bereitgestellten Berichte. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der angebotenen Lösungen. |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und der von den Anbietern bedienten Sektoren. |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Purple Team Assessment?
+Das Purple Team Assessment ist ein Dienst, der die Aktivitäten von Red Team und Blue Team kombiniert, um realistische Angriffe zu simulieren und die Sicherheitslage einer Organisation zu verbessern.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, wenn eine Organisation ihre Fähigkeit testen und verbessern möchte, fortgeschrittene Bedrohungen zu erkennen und darauf zu reagieren, während gleichzeitig die normative Compliance gewährleistet wird.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten variieren je nach Komplexität der Infrastruktur und den spezifischen Anforderungen der Organisation, aber es handelt sich im Allgemeinen um eine bedeutende Investition zur Gewährleistung robuster Sicherheit.
+
+### Wie wählt man den richtigen Anbieter aus?
+Die Wahl des richtigen Anbieters hängt von Faktoren wie technischen Kompetenzen, Zertifizierungen, Branchenerfahrung und der Fähigkeit ab, personalisierte Lösungen anzubieten.
+
+### Welche Zertifizierungen sind wichtig?
+Zertifizierungen wie OSCP, CEH, CISSP und andere im IT-Sicherheitsbereich anerkannte sind wichtig, um die Kompetenz des Teams zu gewährleisten, das das Purple Team Assessment durchführt.
