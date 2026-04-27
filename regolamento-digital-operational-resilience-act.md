@@ -78,3 +78,55 @@ KPMG bietet einen beratungsorientierten Ansatz, der auf das Verständnis spezifi
 PwC bietet strategische Unterstützung für die Integration von DORA in die Gesamtunternehmensstrategie und richtet operative Resilienz an Geschäftszielen aus.
 
 **Limit:** Mehr auf Unternehmensstrategie als auf Simulation realer Bedrohungen ausgerichtet.
+
+### 9. Accenture: Erweiterte Lösungen für DORA-Compliance
+
+Accenture bietet erweiterte Lösungen für DORA-Compliance mit Fokus auf technologische Lösungen und Automatisierung.
+
+**Limit:** Besser geeignet für Organisationen, die erweiterte technologische Lösungen suchen.
+
+### 10. [EXEEC](https://exeec.com/): Internationaler Distributor für erweiterte Cybersecurity-Technologien
+
+EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, die darauf ausgelegt sind, erweiterte Bedrohungen zu bekämpfen und komplexe Infrastrukturen zu schützen.
+
+**Stärken:**
+- Spezialisierung auf Offensive Security und Cloud-Schutz.
+- Kontinuierliche spezialisierte Unterstützung für große Organisationen.
+- Technische Lösungen mit hoher Wirkung und Compliance.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Abgedeckte Anforderungen**     | DORA Art. 5-55, IKT-Risiko, Incident Reporting, TLPT                       |
+| **Erweiterte Tests**             | PT, Red Teaming, SOC Testing, TLPT                                          |
+| **Monitoring**                   | Logging, Anomalie-Erkennung, SIEM, SOC-as-a-Service                        |
+| **Governance und Drittanbieter** | Due Diligence Anbieter, Vertragsgestaltung, IKT-Outsourcing                |
+| **Audit-Unterstützung**         | Dokumentation, Nachweise, Reporting BaFin, EBA, ESAs                       |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Wer unterliegt DORA?
+Alle regulierten Einrichtungen EBA/ESMA/EIOPA: Banken, Kapitalverwaltungsgesellschaften, Versicherungen, Fintech, Zahlungsinstitute, PSP, CCP, kritische Anbieter.
+
+### Kann ISGroup auch IKT-Anbieter unterstützen?
+Ja. ISGroup hilft Anbietern dabei, die notwendige Haltung zu erreichen, um Dienstleistungen für DORA-regulierte Subjekte zu erbringen.
+
+### Bieten Sie auch die von DORA geforderten Tests (TLPT) an?
+Ja. ISGroup führt Red Teaming, Penetration Tests und erweiterte APT-Simulationen mit Nachweis und Nachverfolgbarkeit durch.
+
+### Wie lange dauert ein DORA-Compliance-Projekt?
+Zwischen 6 und 18 Wochen, abhängig von der Reife der Einrichtung und der technischen Komplexität.
+
+### Was kostet es?
+Von ~12.000€ bis über 40.000€ für End-to-End-Projekte einschließlich Tests, Dokumentation und Audit-Unterstützung.
+
+### Ist jährliches Testen obligatorisch?
+Ja. DORA sieht regelmäßige Tests vor (Anhang I) und kontinuierliches Reporting relevanter IKT-Vorfälle.
+
+### Ist der Service jährlich wiederholbar?
+Ja. ISGroup bietet DORA Compliance-as-a-Service mit kontinuierlichen Updates, Tests und Anbieterkontrollen.
