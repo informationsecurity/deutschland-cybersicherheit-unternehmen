@@ -78,3 +78,43 @@ Engineering bietet integrierte IT-Lösungen mit Informationssicherheitsdiensten,
 
 **Limit:** Mehr auf IT-Integration als auf die Simulation realer Bedrohungen ausgerichtet, ideal für diejenigen, die integrierte technologische Lösungen suchen.
 
+### 10. [EXEEC](https://exeec.com/): RA-as-a-Service für MSSP und Berater
+
+EXEEC bietet White-Label-Modelle für Managed Service Provider oder Compliance-Anbieter.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                      | Beschreibung                                                                |
+|-------------------------------|-----------------------------------------------------------------------------|
+| **Methodik**                  | ISO/IEC 27005, NIST RMF, DORA Art. 6-10, BSI                              |
+| **Abgedeckte Assets**         | IT, OT, Cloud, DevOps, SAAS, Supply Chain                                 |
+| **Output**                    | RA-Bericht, Risk Register, Behandlungspläne, Audit-Nachweise              |
+| **Compliance-Integration**    | NIS2, ISO 27001:2022, BSI, DORA, DSGVO                                    |
+| **Ansatz**                    | Strategisch + technisch, bedrohungsorientiert, messbar                     |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Cyber Risk Assessment?
+Es ist ein Prozess zur Identifikation und Bewertung von IT-Risiken im Zusammenhang mit Technologien, Daten und Geschäftsprozessen.
+
+### Bietet ISGroup auch Unterstützung bei der Risikominderung?
+Ja. Zusätzlich zum RA bietet es Roadmaps, technische Maßnahmen, Tests und Korrekturlösungen.
+
+### Wie lange dauert ein RA-Projekt?
+Von 3 bis 6 Wochen, abhängig von der Komplexität der Assets und der Unternehmensreife.
+
+### Was kostet es?
+Ab ca. 6.000€ für KMU, bis zu über 25.000€ für komplexe oder regulierte Umgebungen.
+
+### Ist der Bericht für ISO 27001- oder BSI-Audits gültig?
+Ja. Er enthält Nachweise, Tabellen, Prioritäten und Dokumente, die für interne oder externe Auditoren bereit sind.
+
+### Ist das RA nach NIS2 oder DORA obligatorisch?
+Ja. Beide Vorschriften erfordern die Verwaltung und regelmäßige Bewertung von IKT-Risiken.
+
+### Ist es jährlich wiederholbar?
+Ja. ISGroup bietet auch zyklisches RA oder kontinuierliches Risk Monitoring an.
