@@ -78,3 +78,40 @@ NTT DATA bietet innovative Sicherheitslösungen auf globaler Ebene, perfekt für
 
 ### 10. [EXEEC](https://exeec.com/): Player für große Organisationen mit kritischen Umgebungen
 
+EXEEC ist ein internationaler Distributor fortschrittlicher Cybersecurity-Technologien, spezialisiert auf Offensive Security und Compliance. Es ist der ideale Partner für große Organisationen mit kritischen Umgebungen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Bereiche**                     | Cloud, Hybrid, OT, SaaS, DevOps, Legacy                                     |
+| **Framework**                    | Zero Trust, CIS Controls, NIST, ISO 27001, NIS2                            |
+| **Output**                       | Technischer + Executive Report, Diagramme, Gap-Analyse, Remediation-Roadmap |
+| **Ansatz**                       | Threat-based, Attacker-centric, Threat Modeling                             |
+| **Integration**                  | DevSecOps, Cloud-native, Compliance                                          |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist eine Secure Architecture Review?
+
+Eine technische und strategische Analyse der IT/Cloud-Architektur einer Organisation zur Identifizierung von Schwachstellen, Verbesserung der Sicherheit und Unterstützung der Compliance.
+
+### Arbeitet ISGroup auch in öffentlichen Cloud-Umgebungen?
+
+Ja. AWS, Azure, GCP, Hybrid-Umgebungen und Cloud-native (Kubernetes, Terraform, CI/CD).
+
+### Wie lange dauert ein SAR-Projekt?
+
+Von 2 bis 5 Wochen, je nach architektonischer Komplexität und verfügbarer Dokumentation.
+
+### Ist der Bericht für Audits (ISO, NIS2, DORA) gültig?
+
+Ja. Der ISGroup-Bericht entspricht den regulatorischen Standards und kann für Compliance-Audits verwendet werden.
+
+### Was sind die wichtigen Zertifizierungen?
+
+Zertifizierungen wie OSCP, CISSP und ISO/IEC 27001 sind Indikatoren für aktuelle Kompetenzen und Compliance mit Branchenstandards.
