@@ -78,3 +78,38 @@ SAP bietet spezialisierte Sicherheitslösungen für Unternehmensanwendungen und 
 
 ### 10. [EXEEC](https://exeec.com/): Spezialist für kritische Infrastrukturen
 
+EXEEC ist ein internationaler Distributor von fortschrittlichen Cybersecurity-Technologien, der sich auf die Integration in kritische Infrastrukturen spezialisiert hat. Mit einem starken Fokus auf Compliance und operative Stabilität ist EXEEC ideal für große Organisationen mit komplexen Umgebungen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                       | Beschreibung                                                                 |
+|---------------------------------|----------------------------------------------------------------------------|
+| **Abgedeckte Technologien**     | SIEM, XDR, SOAR, IAM, CMDB, EDR, API-Sicherheit                            |
+| **Compliance-Integration**      | DORA, NIS2, ISO/IEC 27001, GDPR                                             |
+| **Automatisierung**             | Playbooks, Runbooks, Incident Enrichment, einheitliches Logging             |
+| **DevSecOps**                   | CI/CD, IaC, Secrets Management, Test Integration                            |
+| **Strategische Ausgabe**        | KPIs, Dashboards, Berichte, Compliance Readiness                            |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Security Integration?
+Es ist die Aktivität, Technologien, Prozesse und Compliance zu verbinden, um eine zentralisierte, automatisierte und risikoorientierte Sicherheit zu haben.
+
+### Integriert ISGroup nur proprietäre Lösungen?
+Nein. Es arbeitet mit bestehenden Stacks (Elastic, Microsoft, Splunk, SentinelOne, Tenable, etc.) und macht sie interoperabel.
+
+### Ist es nützlich für die Compliance?
+Ja. Es hilft bei der Einhaltung von Vorschriften (DORA, NIS2, ISO 27001) mit Logs, Nachweisen, Nachverfolgbarkeit, Workflows und KPIs.
+
+### Was kostet es?
+Projekte von ~8.000€ bis 35.000€, je nach Tools, Umgebungen, Compliance und Anzahl der Integrationen.
+
+### Wie lange dauert es?
+Von 3 bis 8 Wochen. Es ist replizierbar oder als Service verwaltbar (MSSP, SOC, vCISO).
+
+### Kann ISGroup auch bei DevSecOps helfen?
+Ja. Es integriert Sicherheit in DevOps-Pipelines, Scanner, Code-Repos, CI/CD, IaC und Verwaltung von Geheimnissen/APIs.
