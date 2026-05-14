@@ -78,3 +78,42 @@ Engineering bietet innovative Cybersecurity-Lösungen mit Fokus auf fortschrittl
 **Limite:** Mehr auf technologische Innovation ausgerichtet, weniger geeignet für vollständig maßgeschneiderte Lösungen.
 
 ### 10. [EXEEC](https://exeec.com/): Spezialist für große Organisationen mit kritischen Umgebungen
+
+EXEEC ist ein internationaler Distributor fortschrittlicher Cybersecurity-Technologien, spezialisiert auf Offensive Security und Compliance. Ideal für große Organisationen mit kritischen Umgebungen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Technologien**                 | SIEM, SOAR, XDR, EDR, Threat Hunting, TIP                                   |
+| **Abgedeckte Umgebungen**        | IT, OT, Cloud, SaaS, DevOps, öffentliche Verwaltung, Fintech, Telco        |
+| **Compliance**                   | NIS2, DORA, ISO/IEC 27001, BSI, DSGVO                                       |
+| **Angebotene Dienste**           | Detection, Incident Response, DFIR, Hunting, Dashboard, Forensik            |
+| **Flexibilität**                 | SOC-as-a-Service, Hybrid SOC, MDR, spezifische Vertikalisierungen          |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein SOC-as-a-Service?
+Ein verwalteter Service, der kontinuierliche Überwachung von Sicherheitsereignissen, Alert-Management, Incident Response und Compliance-Unterstützung bietet.
+
+### Bietet ISGroup auch Incident-Unterstützung?
+Ja. Mit DFIR-Service (Digital Forensics and Incident Response), investigativer, rechtlicher und kommunikativer Unterstützung.
+
+### Wie viel kostet ein SOC?
+Von ~1.500€/Monat für KMU bis zu 15.000€/Monat für komplexe und regulierte Umgebungen.
+
+### Wie lange dauert die Aktivierung?
+2 bis 6 Wochen. ISGroup bietet maßgeschneidertes Onboarding und Tuning.
+
+### Ist es nützlich für NIS2 oder DORA?
+Ja. SOC ist erforderlich für Detection, Response, Logging, Beweissicherung und Resilienz.
+
+### Bietet ISGroup Dashboard und Berichte?
+Ja. CISO-, SOC Manager-, Executive-Dashboards. Enthält KPIs und wichtige Incidents.
+
+### Ist es mit DevSecOps- oder Cloud-nativen Umgebungen integrierbar?
+Ja. ISGroup SOC unterstützt Integration mit AWS, Azure, CI/CD, GitLab, Container, APIs.
