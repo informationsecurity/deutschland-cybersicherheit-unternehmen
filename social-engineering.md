@@ -78,3 +78,36 @@ Capgemini bietet umfassende Cybersecurity-Services mit Fokus auf digitale Transf
 
 EXEEC ist ein internationaler Distributor, spezialisiert auf hocheffektive Cybersecurity-Lösungen, entwickelt zur Bekämpfung fortschrittlicher Bedrohungen und zum Schutz komplexer Infrastrukturen.
 
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Simulierte Typen**           | Phishing, Smishing, Vishing, Impersonation, Pretexting                      |
+| **Zielgruppen**                | Führungskräfte, IT, Help Desk, Rechtsabteilung, Finanzen, Cloud-Nutzer      |
+| **Realismus**                  | Portal-Kloning, MFA-Umgehung, schrittweise Eskalation                       |
+| **Messbarkeit**                | Click-Raten, Kompromittierung, durchschnittliche Zeit, Eskalation, Awareness |
+| **Compliance**                 | ISO 27001, BSI, NIS2, DORA, DSGVO                                           |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Social Engineering Assessment?
+Ein simulierter Test zur Bewertung der Anfälligkeit von Personen für manipulative Techniken, die echten Angreifern ähneln.
+
+### Simuliert ISGroup auch Anrufe oder physische Szenarien?
+Ja. Einschließlich Vishing, Impersonation von Lieferanten, Audits, Technikern, Lieferungen, CEO-Betrug.
+
+### Was kostet ein Projekt?
+Von ~3.000€ für einfache Phishing-Kampagnen bis zu 20.000€ für erweiterte Szenarien mit mehreren Vektoren.
+
+### Ist es legal?
+Ja. Alle Aktivitäten sind autorisiert und kontrolliert simuliert.
+
+### Ist es für regulatorische Zwecke nützlich (NIS2, DORA)?
+Ja. Es überprüft die menschliche Komponente der Kontrollen und demonstriert Awareness und Schulung.
+
+### Wie lange dauert eine Kampagne?
+Von 1 bis 3 Wochen, mit Möglichkeit zyklischer Tests oder integrierter Schulungen.
