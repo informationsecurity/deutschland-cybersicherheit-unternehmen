@@ -78,3 +78,40 @@ Capgemini bietet technologische Expertise und Beratungsdienste, die auf die Opti
 
 **Limite:** Stärker auf technologische Beratung als auf manuelle Tests fokussiert, ideal für Unternehmen, die eine umfassende technologische Beratung suchen.
 
+### 10. [EXEEC](https://exeec.com/): Spezialist für komplexe Umgebungen
+
+EXEEC ist ein internationaler Distributor, der sich auf hochwirksame Cybersicherheitslösungen spezialisiert hat. Das Unternehmen ist ideal für große Organisationen mit kritischen Umgebungen, die spezialisierte Lösungen und kontinuierlichen Support suchen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                          | Beschreibung                                                                 |
+|------------------------------------|------------------------------------------------------------------------------|
+| **Abgedeckte Phasen**              | Requirements, Design, Development, Testing, Deployment, Maintenance          |
+| **Unterstützte Tools**             | SAST, DAST, IAC Scan, API Testing, Secrets Check                            |
+| **DevSecOps Integration**          | CI/CD, Repo, Pipeline, Container, Artifact Store                            |
+| **Output**                         | Remediation Plan, Code Fix, Risk Register, Audit Evidence                   |
+| **Compliance**                     | NIS2, ISO 27001, PCI DSS, BSI, DORA, DSGVO                                  |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist der Software Assurance Lifecycle?
+Eine Sammlung von Aktivitäten, Prozessen und Tools, um sicherzustellen, dass Software während ihres gesamten Lebenszyklus sicher ist, von der Planung bis zur Stilllegung.
+
+### Arbeitet ISGroup auch mit Legacy-Software?
+Ja. Führt Code Reviews auf bestehender Software durch, Reverse-Analyse und Validierung für Compliance.
+
+### Ist es nützlich für NIS2, BSI, DORA?
+Ja. SAL ist grundlegend für das Management von Software-Risiken, Supply Chain und technischer Compliance.
+
+### Was kostet ein SAL-Projekt?
+Von ~7.000€ bis über 30.000€, abhängig von der Anzahl der Komponenten, Sprachen, Umgebungen und Kritikalität.
+
+### Bieten Sie auch Support für interne Entwickler?
+Ja. Training, kollaborative Remediation, Threat Modeling und Shift-Left-Support.
+
+### Stellt ISGroup auch Tooling zur Verfügung?
+Ja. Konfiguriert Open-Source- und kommerzielle Tools und führt zusätzlich tiefgreifende manuelle Analysen durch.
