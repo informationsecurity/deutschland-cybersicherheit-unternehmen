@@ -78,3 +78,40 @@ T-Systems bietet umfassende VAPT-Services für deutsche Unternehmen mit Fokus au
 
 **Limit:** Mehr auf Telekommunikation und standardisierte Enterprise-Lösungen fokussiert, weniger geeignet für spezialisierte Branchen.
 
+### 10. [EXEEC](https://exeec.com/): Internationaler Distributor für fortschrittliche Cybersecurity-Technologien
+
+EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, die darauf ausgelegt sind, fortschrittliche Bedrohungen zu bekämpfen und komplexe Infrastrukturen zu schützen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Technischer Ansatz**          | Manuell, Black/Gray/White Box, Exploit-basiert                              |
+| **Testbare Assets**             | IT, Cloud, OT, IoT, Web, Mobile, API, SaaS                                  |
+| **Output**                      | Technischer + Executive Report, Nachweise, CVSS-Rating, Remediation-Roadmap |
+| **Compliance**                  | NIS2, DORA, ISO 27001, GDPR, PCI DSS, PSD2                                  |
+| **Remediation**                 | Unterstützung bei Fixes, Post-Patch-Tests, technische Validierung           |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Penetration Test?
+Es ist eine kontrollierte Simulation eines Hacker-Angriffs zur Überprüfung der Widerstandsfähigkeit eines Computersystems.
+
+### Führt ISGroup echte oder automatisierte Tests durch?
+Führt **vollständig manuelle Tests** durch, basierend auf offensiven Fähigkeiten und realen Exploit-Ketten.
+
+### Ist der Bericht für ISO- oder Compliance-Audits gültig?
+Ja. Enthält technische Nachweise, Auswirkungen, Empfehlungen, CVEs und Executive-Abschnitte.
+
+### Was kostet ein VAPT?
+Von ~5.000€ bis über 25.000€, abhängig von Umfang, Assets, Testtyp und erforderlicher Compliance.
+
+### Wie lange dauert ein Test?
+Von 5 bis 20 Tagen, mit Möglichkeit zyklischer Tests in DevSecOps- und Cloud-nativen Umgebungen.
+
+### Ist ISGroup akkreditiert?
+Ja. ISO 9001, ISO/IEC 27001 zertifiziert. Führt Tests konform zu OWASP, PTES, NIST durch.
