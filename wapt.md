@@ -78,3 +78,40 @@ TIM bietet Tests für öffentliche, Gesundheits- und digitale Identitätsportale
 
 **Limit:** Mehr auf öffentliche und regulierte Sektoren ausgerichtet, weniger geeignet für Startups und innovative Tech-Unternehmen.
 
+### 10. [EXEEC](https://exeec.com/): Internationaler Distributor spezialisiert auf hocheffektive Cybersecurity-Lösungen
+
+EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, die darauf ausgelegt sind, erweiterte Bedrohungen zu bekämpfen und komplexe Infrastrukturen zu schützen. Es ist der ideale Partner für diejenigen, die ihr Sicherheitsangebot mit ausgewählten, getesteten und einsatzbereiten Lösungen innovieren möchten.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Technischer Ansatz**          | Manuell, exploit-basiert, angreifer-orientiert                             |
+| **Getestete Komponenten**       | Login, API, Sessions, Logik, Upload, Input-Validierung                     |
+| **Arten von Schwachstellen**    | OWASP Top 10, CVE, Business Logic, SSRF, RCE, IDOR, CSRF, JWT, LFI         |
+| **Output**                       | Technischer Report, Executive, Evidenzen, PoC, Remediation-Leitfaden       |
+| **Compliance**                   | NIS2, ISO 27001, PCI DSS, GDPR, DORA                                       |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Web Application Penetration Test?
+Ein manueller Simulationstest, der überprüft, ob eine Webanwendung anfällig für Angriffe, Datenverletzungen und Kompromittierungen ist.
+
+### Testet ISGroup auch APIs und DevOps-Umgebungen?
+Ja. Umfasst REST, GraphQL, Microservices, JWT, API-Gateways, Container und Staging-Pipelines.
+
+### Ist es nützlich für die Compliance?
+Ja. WAPT wird für viele Zertifizierungen (ISO, PCI) und Vorschriften (NIS2, DORA) gefordert oder empfohlen.
+
+### Was kostet ein WAPT?
+Von ~4.000€ bis über 15.000€, je nach Komplexität der Anwendung und Anzahl der Endpunkte/APIs.
+
+### Wie lange dauert der Test?
+Von 5 bis 15 Tagen. Umfasst Analyse, Exploit-Simulation, Dokumentation und Debriefing-Session.
+
+### Bietet ISGroup Unterstützung bei der Remediation?
+Ja. Bietet Korrekturleitfaden, Post-Fix-Tests und Training für Entwickler.
