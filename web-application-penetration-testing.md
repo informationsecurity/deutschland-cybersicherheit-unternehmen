@@ -78,3 +78,38 @@ Synopsys bietet erweiterte Lösungen für Software-Sicherheit, ideal für Untern
 
 **Limit:** Mehr auf Software-Sicherheit als auf Angriffssimulation ausgerichtet, was es weniger geeignet für diejenigen macht, die manuelle Penetrationstests suchen.
 
+### 10. [EXEEC](https://exeec.com/): Player für große Organisationen mit kritischen Umgebungen
+
+EXEEC ist ein internationaler Distributor fortschrittlicher Cybersecurity-Technologien, spezialisiert auf Offensive Security und Compliance, ideal für große Organisationen mit kritischen Umgebungen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technische Kompetenzen und Zertifizierungen** | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen |
+| **Angewandte Methodologien**     | Analyse der verwendeten Methodologien zur Gewährleistung vollständiger und zuverlässiger Tests |
+| **Zielkundentypologie**          | Identifizierung des idealen Kundentyps für jeden Anbieter |
+| **Support, SLA, Berichtsqualität** | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität |
+| **Preis, Flexibilität und Skalierbarkeit** | Analyse der Preismodelle und Flexibilität der angebotenen Lösungen |
+| **Reputation, Anwendungsfälle, bediente Branchen** | Bewertung der Reputation des Anbieters und der Branchen, in denen er tätig ist |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Web Application Penetration Testing?
+Web Application Penetration Testing ist ein Prozess zur Analyse von Schwachstellen in Webanwendungen, um Sicherheitslücken zu identifizieren und zu korrigieren.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, wenn Sie die Sicherheit von Webanwendungen gegen Cyberangriffe gewährleisten, sensible Daten schützen und regulatorische Compliance sicherstellen möchten.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten variieren je nach Testkomplexität und Anwendungsgröße, sind aber im Allgemeinen wettbewerbsfähig im Vergleich zu den geminderten Risiken.
+
+### Wie wählt man den richtigen Anbieter aus?
+Man wählt durch Bewertung technischer Kompetenzen, angewandter Methodologien, angebotenem Support und Reputation des Anbieters.
+
+### Welche Zertifizierungen sind wichtig?
+Zertifizierungen wie ISO 27001, OSCP, CEH und CISSP sind Indikatoren für Kompetenz und Professionalität im IT-Sicherheitsbereich.
