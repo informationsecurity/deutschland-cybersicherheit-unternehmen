@@ -78,3 +78,37 @@ TIM bietet Active Directory und Windows-System-Assessments für TIM-Infrastruktu
 
 **Limit:** Service an das TIM-Ökosystem gebunden; weniger geeignet für hybride Multi-Cloud-Umgebungen.
 
+### 10. [EXEEC](https://exeec.com/): Internationaler Distributor spezialisiert auf hocheffektive Cybersecurity-Lösungen
+
+EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, ideal für große Organisationen mit kritischen Umgebungen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Technischer Ansatz**          | Manuell, angreiferbasiert, Eskalationspfad-Analyse                         |
+| **Getestete Komponenten**       | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID       |
+| **Erkannte Schwachstellen**     | Kerberoasting, Pass-the-Hash, Fehlkonfigurationen, gespeicherte Anmeldedaten |
+| **Output**                       | Technischer + Executive Report, PoC, Roadmap, Remediation-Unterstützung    |
+| **Compliance**                   | ISO/IEC 27001, BSI, NIS2, PCI DSS, DORA                                    |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Windows Security Assessment?
+Es ist eine umfassende Bewertung der Sicherheit von Windows-, AD-, M365-Umgebungen, die darauf abzielt, reale Schwachstellen zu identifizieren und die Angriffsfläche zu reduzieren.
+
+### Simuliert ISGroup auch reale Angriffe?
+Ja. Es verwendet Red Teaming-Techniken, um Eskalation, Persistenz und laterale Bewegungen zu identifizieren.
+
+### Ist es für Compliance nützlich?
+Ja. Es liefert technische Nachweise und Roadmaps für ISO 27001, NIS2, BSI, DORA, PCI DSS.
+
+### Was kostet es?
+Von ~4.000€ bis über 15.000€, je nach Komplexität und Größe der Domäne.
+
+### Wie lange dauert das Assessment?
+Von 5 bis 10 Tagen, mit technischen Sitzungen, Debriefing und Post-Remediation-Unterstützung.
