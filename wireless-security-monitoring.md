@@ -78,3 +78,29 @@ EXEEC vertreibt hochspezialisierte Wireless-Sicherheitstechnologien mit operativ
 | Kriterium                          | Beschreibung                                                                 |
 |-----------------------------------|------------------------------------------------------------------------------|
 | **Technische Kompetenzen und Zertifizierungen** | ISO 27001, CWNA/CWSP, Erfahrung mit Wi-Fi 6, OT/IoT                      |
+| **Angewandte Methodologien**      | Passives Monitoring, WIPS/WIDS, Threat Intelligence                        |
+| **Zielkundentypologie**           | KMU, Enterprise, Industrie, öffentliche Verwaltung, Einzelhandel, Gesundheitswesen |
+| **Support, SLA, Berichte**        | Echtzeit-Alarme, Dashboards, Eskalation, technische/compliance-bereite Berichte |
+| **Preis, Flexibilität, Skalierbarkeit** | KMU-Pakete vs. Enterprise-Projekte, transparente Preise, Abonnement-Modelle |
+| **Reputation, Anwendungsfälle, Sektoren** | Referenzen, Projekte in Gesundheits-, Industrie-, Finanzumgebungen        |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Wireless Security Monitoring?
+Es ist ein kontinuierlicher Überwachungsdienst für Unternehmens-Wi-Fi-Netzwerke zur Erkennung nicht autorisierter Geräte, drahtloser Angriffe (Spoofing, Rogue APs, Deauth), Fehlkonfigurationen und Richtlinienverletzungen, der proaktiven Schutz bietet.
+
+### Wann und warum ist es notwendig?
+Es ist erforderlich, wenn das Unternehmen erweiterte Wi-Fi-Nutzung hat (BYOD, Gäste, IoT), insbesondere wenn es sensible Daten verarbeitet oder Compliance-Anforderungen unterliegt (PCI DSS, ISO 27001, NIS2). Es verhindert gezielte Angriffe auf das drahtlose Netzwerk, das oft im Vergleich zum kabelgebundenen Netzwerk vernachlässigt wird.
+
+### Was sind die durchschnittlichen Kosten?
+Von etwa 2.000 €/Monat für kleine Standorte bis zu 10.000 €/Monat für Multi-Site-Implementierungen mit Sensorik und 24/7-Support.
+
+### Wie wählt man den richtigen Anbieter aus?
+Überprüfen Sie technische Kompetenzen (Wireless-Zertifizierungen, OT, IoT), Methodologie (passives Monitoring, Threat Intelligence), Aktivierungszeiten (1-3 Wochen), SLAs, Integrationsfähigkeiten mit SOC/IT.
+
+### Welche Zertifizierungen sind wichtig?
+ISO/IEC 27001, CWNA/CWSP, Erfahrung mit Wi-Fi 6-Standards, Experten in OT- und IoT-Zertifizierungen sind unterscheidende Elemente.
+
+---
